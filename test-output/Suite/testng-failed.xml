@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.utility.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.JavaPractice.PimtestCase">
+        <methods>
+          <include name="PimTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.PimtestCase -->
+      <class name="com.JavaPractice.PayGradeTestCase">
+        <methods>
+          <include name="PayGradeTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.PayGradeTestCase -->
+      <class name="com.JavaPractice.UserManagementTestCase">
+        <methods>
+          <include name="HomePageTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.UserManagementTestCase -->
+      <class name="com.JavaPractice.JobCatagoriesTestCase">
+        <methods>
+          <include name="JobCatagoryTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.JobCatagoriesTestCase -->
+      <class name="com.JavaPractice.EmploymentStatusTestCase">
+        <methods>
+          <include name="EmploymentStatusTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.EmploymentStatusTestCase -->
+      <class name="com.JavaPractice.ReportsTestCase">
+        <methods>
+          <include name="ReportTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.ReportsTestCase -->
+      <class name="com.JavaPractice.WorkShiftsTestcase">
+        <methods>
+          <include name="workshiftsTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.WorkShiftsTestcase -->
+      <class name="com.JavaPractice.OrganisationTestCase">
+        <methods>
+          <include name="OrganisationTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.OrganisationTestCase -->
+      <class name="com.JavaPractice.JobTestcase">
+        <methods>
+          <include name="JobTest"/>
+        </methods>
+      </class> <!-- com.JavaPractice.JobTestcase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

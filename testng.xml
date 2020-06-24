@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.utility.Listeners"/>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="com.JavaPractice.LoginPageTestCase"/>
+      <class name="com.JavaPractice.UserManagementTestCase"/>
+      <class name="com.JavaPractice.JobTestcase"/>
+      <class name="com.JavaPractice.PayGradeTestCase"/>
+      <class name="com.JavaPractice.EmploymentStatusTestCase"/>
+      <class name="com.JavaPractice.JobCatagoriesTestCase"/>
+      <class name="com.JavaPractice.WorkShiftsTestcase"/>
+      <class name="com.JavaPractice.OrganisationTestCase"/>
+      <class name="com.JavaPractice.PimtestCase"/>
+      <class name="com.JavaPractice.ReportsTestCase"/>
+      
+          </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

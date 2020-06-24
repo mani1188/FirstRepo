@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="105759" started-at="2020-06-23T07:17:10Z" finished-at="2020-06-23T07:18:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="105759" started-at="2020-06-23T07:17:10Z" finished-at="2020-06-23T07:18:56Z">
+      <class name="com.JavaPractice.ReportsTestCase">
+        <test-method status="PASS" signature="ReportTest()[pri:0, instance:com.JavaPractice.ReportsTestCase@77846d2c]" name="ReportTest" duration-ms="3391" started-at="2020-06-23T07:18:52Z" finished-at="2020-06-23T07:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportTest -->
+      </class> <!-- com.JavaPractice.ReportsTestCase -->
+      <class name="com.JavaPractice.LoginPageTestCase">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JavaPractice.LoginPageTestCase@954b04f]" name="SetUp" is-config="true" duration-ms="16614" started-at="2020-06-23T07:17:10Z" finished-at="2020-06-23T07:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.JavaPractice.LoginPageTestCase@954b04f]" name="LoginTest" duration-ms="13238" started-at="2020-06-23T07:17:27Z" finished-at="2020-06-23T07:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- com.JavaPractice.LoginPageTestCase -->
+      <class name="com.JavaPractice.JobTestcase">
+        <test-method status="PASS" signature="JobTest()[pri:0, instance:com.JavaPractice.JobTestcase@710726a3]" name="JobTest" duration-ms="4751" started-at="2020-06-23T07:17:45Z" finished-at="2020-06-23T07:17:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JobTest -->
+      </class> <!-- com.JavaPractice.JobTestcase -->
+      <class name="com.JavaPractice.UserManagementTestCase">
+        <test-method status="PASS" signature="HomePageTest()[pri:0, instance:com.JavaPractice.UserManagementTestCase@149494d8]" name="HomePageTest" duration-ms="5060" started-at="2020-06-23T07:17:40Z" finished-at="2020-06-23T07:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+      </class> <!-- com.JavaPractice.UserManagementTestCase -->
+      <class name="com.JavaPractice.OrganisationTestCase">
+        <test-method status="PASS" signature="OrganisationTest()[pri:0, instance:com.JavaPractice.OrganisationTestCase@545997b1]" name="OrganisationTest" duration-ms="3423" started-at="2020-06-23T07:18:39Z" finished-at="2020-06-23T07:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrganisationTest -->
+      </class> <!-- com.JavaPractice.OrganisationTestCase -->
+      <class name="com.JavaPractice.PayGradeTestCase">
+        <test-method status="PASS" signature="PayGradeTest()[pri:0, instance:com.JavaPractice.PayGradeTestCase@646007f4]" name="PayGradeTest" duration-ms="34870" started-at="2020-06-23T07:17:50Z" finished-at="2020-06-23T07:18:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayGradeTest -->
+      </class> <!-- com.JavaPractice.PayGradeTestCase -->
+      <class name="com.JavaPractice.PimtestCase">
+        <test-method status="PASS" signature="PimTest()[pri:0, instance:com.JavaPractice.PimtestCase@4cf4d528]" name="PimTest" duration-ms="10493" started-at="2020-06-23T07:18:42Z" finished-at="2020-06-23T07:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PimTest -->
+      </class> <!-- com.JavaPractice.PimtestCase -->
+      <class name="com.JavaPractice.EmploymentStatusTestCase">
+        <test-method status="PASS" signature="EmploymentStatusTest()[pri:0, instance:com.JavaPractice.EmploymentStatusTestCase@481a15ff]" name="EmploymentStatusTest" duration-ms="3410" started-at="2020-06-23T07:18:25Z" finished-at="2020-06-23T07:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmploymentStatusTest -->
+      </class> <!-- com.JavaPractice.EmploymentStatusTestCase -->
+      <class name="com.JavaPractice.WorkShiftsTestcase">
+        <test-method status="PASS" signature="workshiftsTest()[pri:0, instance:com.JavaPractice.WorkShiftsTestcase@306279ee]" name="workshiftsTest" duration-ms="5503" started-at="2020-06-23T07:18:33Z" finished-at="2020-06-23T07:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workshiftsTest -->
+      </class> <!-- com.JavaPractice.WorkShiftsTestcase -->
+      <class name="com.JavaPractice.JobCatagoriesTestCase">
+        <test-method status="PASS" signature="JobCatagoryTest()[pri:0, instance:com.JavaPractice.JobCatagoriesTestCase@78186a70]" name="JobCatagoryTest" duration-ms="4935" started-at="2020-06-23T07:18:28Z" finished-at="2020-06-23T07:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JobCatagoryTest -->
+      </class> <!-- com.JavaPractice.JobCatagoriesTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
